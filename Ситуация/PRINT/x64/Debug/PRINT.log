@@ -1,0 +1,9 @@
+﻿  dialog.cpp
+  lab.cpp
+C:\Users\edd11\Desktop\Основы Алгоритмизации и программирования 1 курс 2 семестр\Лабораторная работа 8\PRINT\lab.cpp(35,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lorry.cpp
+  header.cpp
+  bike.cpp
+  vector.cpp
+  Создание кода...
+  PRINT.vcxproj -> C:\Users\edd11\Desktop\Основы Алгоритмизации и программирования 1 курс 2 семестр\Лабораторная работа 8\x64\Debug\PRINT.exe
